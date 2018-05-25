@@ -1,0 +1,109 @@
+# depslib dependency file v1.0
+1527102389 source:c:\users\user\desktop\things that involve stuff\c++\all sfml bullshit (most of it)\the best game ever!\src\inventory.cpp
+	"Inventory.h"
+
+1527102446 c:\users\user\desktop\things that involve stuff\c++\all sfml bullshit (most of it)\the best game ever!\src\inventory.h
+	<iostream>
+	"Common.h"
+
+1527268469 source:c:\users\user\desktop\things that involve stuff\c++\all sfml bullshit (most of it)\the best game ever!\src\main.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"IncludeAll.h"
+
+1527171073 source:c:\users\user\desktop\things that involve stuff\c++\all sfml bullshit (most of it)\the best game ever!\src\player.cpp
+	<iostream>
+	"Player.h"
+
+1527268689 c:\users\user\desktop\things that involve stuff\c++\all sfml bullshit (most of it)\the best game ever!\src\player.h
+	<iostream>
+	"Common.h"
+
+1527264366 source:c:\users\user\desktop\things that involve stuff\c++\all sfml bullshit (most of it)\the best game ever!\src\items.cpp
+	<iostream>
+	<fstream>
+	<SFML/Graphics.hpp>
+	"Items.h"
+
+1527267654 c:\users\user\desktop\things that involve stuff\c++\all sfml bullshit (most of it)\the best game ever!\src\items.h
+	<iostream>
+	<SFML/Graphics.hpp>
+	"Common.h"
+	"Player.h"
+
+1527267340 c:\users\user\desktop\things that involve stuff\c++\all sfml bullshit (most of it)\the best game ever!\src\includeall.h
+	"Common.h"
+	"Items.h"
+	"Player.h"
+	"GameObject.h"
+	"InfoPanels.h"
+	"RenderScreen.h"
+
+1527095058 source:c:\users\user\desktop\things that involve stuff\c++\all sfml bullshit (most of it)\the best game ever!\src\common.cpp
+	"Common.h"
+
+1527259441 c:\users\user\desktop\things that involve stuff\c++\all sfml bullshit (most of it)\the best game ever!\src\common.h
+
+1527240497 c:\users\user\desktop\things that involve stuff\c++\all sfml bullshit (most of it)\the best game ever!\src\items.cpp
+	<iostream>
+	"Items.h"
+
+1527102043 c:\users\user\desktop\things that involve stuff\c++\all sfml bullshit (most of it)\the best game ever!\src\common2.h
+	<iostream>
+	"Items.h"
+
+1527102389 c:\users\user\desktop\things that involve stuff\c++\all sfml bullshit (most of it)\the best game ever!\src\inventory.cpp
+	"Inventory.h"
+
+1527165877 c:\users\user\desktop\things that involve stuff\c++\all sfml bullshit (most of it)\the best game ever!\src\loaditems.h
+	"Common.h"
+	"Items.h"
+
+1527238076 source:c:\users\user\desktop\things that involve stuff\c++\all sfml bullshit (most of it)\the best game ever!\src\gameobject.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"GameObject.h"
+
+1527237970 c:\users\user\desktop\things that involve stuff\c++\all sfml bullshit (most of it)\the best game ever!\src\gameobject.h
+	<iostream>
+	<SFML/Graphics.hpp>
+
+1527264522 source:c:\users\user\desktop\things that involve stuff\c++\all sfml bullshit (most of it)\the best game ever!\src\infopanels.cpp
+	"InfoPanels.h"
+	"GameObject.h"
+	<iostream>
+	<SFML/Graphics.hpp>
+
+1527259428 c:\users\user\desktop\things that involve stuff\c++\all sfml bullshit (most of it)\the best game ever!\src\infopanels.h
+	<iostream>
+	<SFML/Graphics.hpp>
+	"Items.h"
+	"Common.h"
+
+1527171073 c:\users\user\desktop\things that involve stuff\c++\all sfml bullshit (most of it)\the best game ever!\src\player.cpp
+	<iostream>
+	"Player.h"
+
+1527238076 c:\users\user\desktop\things that involve stuff\c++\all sfml bullshit (most of it)\the best game ever!\src\gameobject.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"GameObject.h"
+
+1527241784 c:\users\user\desktop\things that involve stuff\c++\all sfml bullshit (most of it)\the best game ever!\src\infopanels.cpp
+	"InfoPanels.h"
+	"GameObject.h"
+	<iostream>
+	<SFML/Graphics.hpp>
+
+1527267534 c:\users\user\desktop\things that involve stuff\c++\all sfml bullshit (most of it)\the best game ever!\src\renderscreen.h
+	<iostream>
+	<SFML/Graphics.hpp>
+	"Player.h"
+
+1527268650 source:c:\users\user\desktop\things that involve stuff\c++\all sfml bullshit (most of it)\the best game ever!\src\renderscreen.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"RenderScreen.h"
+	"GameObject.h"
+	"Items.h"
+
